@@ -1,0 +1,5 @@
+.gitignore
+gen/*
+obj/*
+bin/*
+ic_launcher-web.png
